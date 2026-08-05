@@ -35,7 +35,7 @@ Five analytical objectives were defined for this project:
 
 **Date Range:** January 2023 – December 2025
 
-> **Note:** This project uses a synthetically generated dataset provided as part of the Amdari Work Experience Programme. All figures are illustrative and do not represent real business performance.
+> **Note:** This project was completed as part of the Amdari Work Experience Programme.
 
 ---
 
@@ -193,4 +193,4 @@ Tools: Excel · Power BI · DAX · SQL · PostgreSQL · GitHub
 
 ---
 
-*This project was completed as part of the Amdari Work Experience Programme. Dataset is synthetic and used for portfolio demonstration purposes only.*
+*This project was completed as part of the Amdari Work Experience Programme.*
