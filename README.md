@@ -211,7 +211,7 @@ retailmax-bi-project/
 
 **David Osoba**
 Data Analytics | Amdari Work Experience Programme
-Tools: Excel · Power BI · DAX · SQL · PostgreSQL · GitHub
+Tools: Excel · Power BI · DAX · Excel · GitHub
 
 ---
 
