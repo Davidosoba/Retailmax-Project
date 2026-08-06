@@ -3,7 +3,29 @@
 **Amdari Work Experience Programme | Data Analytics Project | June–July 2026**
 
 ---
+![Project Status](https://img.shields.io/badge/Status-Completed-green)
+![Programme](https://img.shields.io/badge/Programme-Amdari%20Work%20Experience-brown)
+![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Power%20BI%20%7C%20Power%20Point-darkred)
 
+##  Table of Content
+
+-  [Project Overview](#Project-Overview)
+-  [Business Objectives](#Business-Objectives)
+-  [Dataset](#Dataset)
+-  [Tools & Technologies](#Tools-&-Technologies)
+-  [Project Workflow](#Project-Workflow)
+-  [Data Preparation Highlights](#Data-Preparation-Highlights)
+-  [Data Model](#Data-Model)
+-  [DAX Measures Deployed](#DAX-Measures-Deployed)
+-  [Dashboard Structure](#Dashboard-Structure)
+-  [Key Findings](#Key-Findings)
+-  [Strategic Recommendations](#Strategic-Recommendations)
+-  [Scope Limitations](#Scope-Limitations)
+-  [Repository Structure](#Repository-Structure)
+-  [Author](#Author)
+
+  ---
+  
 ## Project Overview
 
 RetailMax Group Ltd. is a UK-based mid-market retail and consumer goods company operating 165 physical stores alongside e-commerce and marketplace channels. Despite strong sales performance, the business lacked a centralised analytical framework for understanding customer profitability, pricing effectiveness, channel performance, and revenue trends.
